@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kavita Rawat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📝 I regularly write articles on [https://craftwebstudio.com/blog/](https://craftwebstudio.com/blog/)
-
 - 📫 How to reach me **kavitarawat1214@gmail.com**
 
 - ⚡ Fun fact **I love movies n books**
